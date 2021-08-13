@@ -40,6 +40,7 @@ html, body {
     justify-content: center;
     margin: 0px;
     color: white;
+    padding-top: 25px;
 }
 
 .name {
@@ -59,7 +60,7 @@ html, body {
 
 .last {
     height: 100px;
-    width: 783px;
+    width: 100%;
     background-color: red;
 }
 
